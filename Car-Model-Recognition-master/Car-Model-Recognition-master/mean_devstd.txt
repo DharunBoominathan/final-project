@@ -1,0 +1,1 @@
+tensor(2.7116),tensor(2.7000),tensor(2.6412),tensor(2.5048e+10),tensor(2.4942e+10),tensor(2.4400e+10)
